@@ -318,17 +318,6 @@
                     </div>
                 </div>
             </div>
-            <div class="footer__option">
-                <div class="row">
-                    <div class="col-lg-4 col-md-6 col-sm-6">
-                        <div class="footer__option__item">
-                            <h5>Address:</h5>
-                            <p>36300 Fremont Blvd, Fremont, CA 94536</p>
-                            <a href="#" class="read__more">Read more <span class="arrow_right"></span></a>
-                        </div>
-                    </div>
-                </div>
-            </div>
             <div class="footer__copyright">
                 <div class="row">
                     <div class="col-lg-12 text-center">
