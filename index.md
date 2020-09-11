@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="zxx">
 
 <head>
@@ -22,7 +21,6 @@
     <link rel="stylesheet" href="css/magnific-popup.css" type="text/css">
     <link rel="stylesheet" href="css/slicknav.min.css" type="text/css">
     <link rel="stylesheet" href="css/style.css" type="text/css">
-</head>
 
 <body>
     <!-- Page Preloder -->
@@ -48,7 +46,6 @@
                                 <li><a href="./portfolio.html">Resources</a></li>
                                 <li><a href="./services.html">About</a></li>
                                     </ul>
-                            </ul>
                         </nav>
                         <div class="header__nav__social">
                             <a href="#"><i class="fa fa-facebook"></i<>/a>
@@ -271,8 +268,8 @@
                                 <a href="#"><i class="fa fa-dribbble"></i></a>
                                 <a href="#"><i class="fa fa-instagram"></i></a>
                             </div>
-                        </div
->                    </div>
+                        </div>
+                    </div>
                 </div>
                 <div class="col-lg-3 col-md-6 col-sm-6 p-0">
                     <div class="team__item team__item--four set-bg" data-setbg="img/team/pres.jpg">
