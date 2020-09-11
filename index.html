@@ -69,7 +69,7 @@
                         </div>
                     </div>
                 </div>
-            </div>
+             </div>
             <div class="hero__item set-bg" data-setbg="img/front.jpg">
                 <div class="container">
                     <div class="row">
