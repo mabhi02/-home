@@ -49,7 +49,6 @@
                         </nav>
                     </div>
                 </div>
-            </div>
             <div id="mobile-menu-wrap"></div>
         </div>
     </header>
