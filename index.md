@@ -117,7 +117,7 @@
                     <div class="row">
                         <div class="col-lg-6 col-md-6 col-sm-6">
                             <div class="services__item">
-                                <div class="services__item__icon">
+                                <div class="services__item">
                                     <img src="img/icons/si-1.png" alt="">
                                 </div>
                                 <h4>Weekly Meetings</h4>
@@ -126,7 +126,7 @@
                         </div>
                         <div class="col-lg-6 col-md-6 col-sm-6">
                             <div class="services__item">
-                                <div class="services__item__icon">
+                                <div class="services__item">
                                     <img src="img/icons/si-2.png" alt="">
                                 </div>
                                 <h4>Writing and Editing</h4>
@@ -135,7 +135,7 @@
                         </div>
                         <div class="col-lg-6 col-md-6 col-sm-6">
                             <div class="services__item">
-                                <div class="services__item__icon">
+                                <div class="services__item">
                                     <img src="img/icons/si-3.png" alt="">
                                 </div>
                                 <h4>Live Practice</h4>
@@ -144,7 +144,7 @@
                         </div>
                         <div class="col-lg-6 col-md-6 col-sm-6">
                             <div class="services__item">
-                                <div class="services__item__icon">
+                                <div class="services__item">
                                     <img src="img/icons/si-4.png" alt="">
                                 </div>
                                 <h4>Tournaments</h4>
