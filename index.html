@@ -11,8 +11,7 @@
 
     <!-- Google Font -->
     <link href="https://fonts.googleapis.com/css2?family=PT+Sans+Caption&display=swap" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@300;400;500;600;700&display=swap"
-        rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Play:wght@400;700&display=swap" rel="stylesheet">
 
     <!-- Css Styles -->
     <link rel="stylesheet" href="css/bootstrap.min.css" type="text/css">
@@ -76,7 +75,7 @@
                     <div class="row">
                         <div class="col-lg-6">
                             <div class="hero__text">
-                                <span>For our intereactive calendar</span>
+                                <span>For our interactive calendar</span>
                                 <h2>American High School Speech and Debate</h2>
                                 <a href="#" class="primary-btn">Calendar</a>
                             </div>
@@ -110,7 +109,7 @@
                         <div class="section-title">
                             <h2>What We do?</h2>
                         </div>
-                        <p>Our club is made up of a team of dedicated students who work togheter to give our fellow speech and debators the help that they deserve!</p>
+                        <p>Our club is made up of a team of dedicated students who work together to give our fellow speech and debators the help that they deserve!</p>
                         <a href="#" class="primary-btn">View our events</a>
                     </div>
                 </div>
@@ -122,7 +121,7 @@
                                     <img src="img/icons/si-1.png" alt="">
                                 </div>
                                 <h4>Weekly Meetings</h4>
-                                <p>Every week, there will be meetings at which students can ask questions, prepare for tournaments, and learn about their event</p>
+                                <p>Every week, there will be meetings at which students can ask questions, prepare for tournaments, and learn about their event.</p>
                             </div>
                         </div>
                         <div class="col-lg-6 col-md-6 col-sm-6">
@@ -131,7 +130,7 @@
                                     <img src="img/icons/si-2.png" alt="">
                                 </div>
                                 <h4>Writing and Editing</h4>
-                                <p>A major part of speech and debate is writing cases and editing speeches. With our teach of experienced captains, we make it easy and fun for students to learn. </p>
+                                <p>A major part of speech and debate is writing cases and editing speeches. With our team of experienced captains, we make it easy and fun for students to learn. </p>
                             </div>
                         </div>
                         <div class="col-lg-6 col-md-6 col-sm-6">
@@ -149,7 +148,7 @@
                                     <img src="img/icons/si-4.png" alt="">
                                 </div>
                                 <h4>Tournaments</h4>
-                                <p>Our team goes to at least one tournament every month, and these competiotions are great ways for students to showcase the amazing skills that they have learned.</p>
+                                <p>Our team goes to at least one tournament every month, and these competitions are a great way for students to showcase the amazing skills that they have learned.</p>
                             </div>
                         </div>
                     </div>
@@ -173,7 +172,7 @@
                             <div class="counter__item__text">
                                 <img src="img/icons/ci-1.png" alt="">
                                 <h2 class="counter_num">30</h2>
-                                <p>Expierenced Captains</p>
+                                <p>Experienced Captains</p>
                             </div>
                         </div>
                     </div>
@@ -191,7 +190,7 @@
                             <div class="counter__item__text">
                                 <img src="img/icons/ci-3.png" alt="">
                                 <h2 class="counter_num">46</h2>
-                                <p>Tournaments Wins</p>
+                                <p>Tournament Wins</p>
                             </div>
                         </div>
                     </div>
@@ -216,7 +215,7 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="section-title team__title">
-                        <span>Nice to meet</span>
+                        <span>Meet</span>
                         <h2>OUR OFFICERS</h2>
                     </div>
                 </div>
@@ -296,7 +295,7 @@
             <div class="row">
                 <div class="col-lg-8">
                     <div class="callto__text">
-                        <h2>Fresh Ideas, fresh moments Giving Wings to your Stories.</h2>
+                        <h2>Tell your story with Speech and Debate and let your wings soar.</h2>
                     </div>
                 </div>
             </div>
