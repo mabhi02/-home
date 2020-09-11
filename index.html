@@ -1,3 +1,4 @@
+
 <html lang="zxx">
 
 <head>
@@ -9,7 +10,7 @@
     <title>Home | American High School</title>
 
     <!-- Google Font -->
-    <link href="https://fonts.googleapis.com/css2?family=Play:wght@400;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=PT+Sans+Caption&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@300;400;500;600;700&display=swap"
         rel="stylesheet">
 
@@ -77,7 +78,7 @@
                             <div class="hero__text">
                                 <span>For our intereactive calendar</span>
                                 <h2>American High School Speech and Debate</h2>
-                                <a href="#" class="primary-btn">Learn about our Calendar</a>
+                                <a href="#" class="primary-btn">Calendar</a>
                             </div>
                         </div>
                     </div>
@@ -88,9 +89,9 @@
                     <div class="row">
                         <div class="col-lg-6">
                             <div class="hero__text">
-                                <span>For our proffesional resources</span>
+                                <span>For our professional resources</span>
                                 <h2>American High School Speech and Debate</h2>
-                                <a href="#" class="primary-btn">Learn more about our resources</a>
+                                <a href="#" class="primary-btn">Resources</a>
                             </div>
                         </div>
                     </div>
@@ -121,7 +122,7 @@
                                     <img src="img/icons/si-1.png" alt="">
                                 </div>
                                 <h4>Weekly Meetings</h4>
-                                <p>Every week, there will be meetings at least once a day in which students can ask questions, prepare for tournaments, learn about their event</p>
+                                <p>Every week, there will be meetings at which students can ask questions, prepare for tournaments, and learn about their event</p>
                             </div>
                         </div>
                         <div class="col-lg-6 col-md-6 col-sm-6">
@@ -130,7 +131,7 @@
                                     <img src="img/icons/si-2.png" alt="">
                                 </div>
                                 <h4>Writing and Editing</h4>
-                                <p>A big part of speech and debate is writing cases and editing speeches. With our teach of exiperecned captains, we make it easy and fun for the students to learn. </p>
+                                <p>A major part of speech and debate is writing cases and editing speeches. With our teach of experienced captains, we make it easy and fun for students to learn. </p>
                             </div>
                         </div>
                         <div class="col-lg-6 col-md-6 col-sm-6">
@@ -139,7 +140,7 @@
                                     <img src="img/icons/si-3.png" alt="">
                                 </div>
                                 <h4>Live Practice</h4>
-                                <p>Practice makes perfect, and here at AHS S&D, we take that very seriously. During the meetings, students will have the time to practice infornt of a live audience and gain the feedback to become better speakers.</p>
+                                <p>Practice makes perfect and here at AHS S&D, we take that very seriously. During the meetings, students will have the time to practice in front of a live audience and receive feedback to become better speakers.</p>
                             </div>
                         </div>
                         <div class="col-lg-6 col-md-6 col-sm-6">
@@ -148,7 +149,7 @@
                                     <img src="img/icons/si-4.png" alt="">
                                 </div>
                                 <h4>Tournaments</h4>
-                                <p>Our team goes to atleast one tournament every month, and these competiotions are great ways for students to showcase the amazing skills that they have learned.</p>
+                                <p>Our team goes to at least one tournament every month, and these competiotions are great ways for students to showcase the amazing skills that they have learned.</p>
                             </div>
                         </div>
                     </div>
@@ -199,7 +200,7 @@
                             <div class="counter__item__text">
                                 <img src="img/icons/ci-4.png" alt="">
                                 <h2 class="counter_num">7</h2>
-                                <p>Diffrent Events</p>
+                                <p>Different Events</p>
                             </div>
                         </div>
                     </div>
@@ -216,7 +217,7 @@
                 <div class="col-lg-12">
                     <div class="section-title team__title">
                         <span>Nice to meet</span>
-                        <h2>OUR Executives</h2>
+                        <h2>OUR OFFICERS</h2>
                     </div>
                 </div>
             </div>
@@ -295,7 +296,7 @@
             <div class="row">
                 <div class="col-lg-8">
                     <div class="callto__text">
-                        <h2>Fresh Ideas, Fresh Moments Giving Wings to your Stories.</h2>
+                        <h2>Fresh Ideas, fresh moments Giving Wings to your Stories.</h2>
                     </div>
                 </div>
             </div>
@@ -306,17 +307,6 @@
     <!-- Footer Section Begin -->
     <footer class="footer">
         <div class="container">
-            <div class="footer__top">
-                <div class="row">
-                    <div class="col-lg-6 col-md-6">
-                        <div class="footer__top__logo">
-                            <a href="#"><img src="img/logo.png" alt=""></a>
-                        </div>
-                    </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
             <div class="footer__copyright">
                 <div class="row">
                     <div class="col-lg-12 text-center">
