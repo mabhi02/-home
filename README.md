@@ -78,7 +78,7 @@
                             <div class="hero__text">
                                 <span>For our interactive calendar</span>
                                 <h2>American High School Speech and Debate</h2>
-                                <a href="#" class="primary-btn">Calendar</a>
+                                <a href="https://ahs-speech-debate.github.io/-calendar/" class="primary-btn">Calendar</a>
                             </div>
                         </div>
                     </div>
