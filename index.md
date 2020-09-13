@@ -40,10 +40,10 @@
                     <div class="header__nav__option">
                         <nav class="header__nav__menu mobile-menu">
                             <ul>
-                                <li class="active"><a href="https://ahs-speech-debate.github.io/-home/">Home</a></li>
-                                <li style="color:black"><a href="https://ahs-speech-debate.github.io/-calendar/">Calendar</a></li>
+                                <li><a href="https://ahs-speech-debate.github.io/-home/">Home</a></li>
+                                <li><a href="https://ahs-speech-debate.github.io/-calendar/">Calendar</a></li>
                                 <li><a href="./portfolio.html">Resources</a></li>
-                                <li><a href="./services.html">About</a></li>
+                                <li><a href="https://ahs-speech-debate.github.io/-about/">About</a></li>
                                 <li><a href="./services.html">Our Team</a></li>
                                     </ul>
                         </nav>
@@ -64,7 +64,7 @@
                             <div class="hero__text">
                                 <span>Welcome To AHS S&D</span>
                                 <h2>American High School Speech and Debate</h2>
-                                <a href="#" class="primary-btn">Learn more about us</a>
+                                <a href="https://ahs-speech-debate.github.io/-about/" class="primary-btn">Learn more about us</a>
                             </div>
                         </div>
                     </div>
