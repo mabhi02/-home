@@ -40,10 +40,11 @@
                     <div class="header__nav__option">
                         <nav class="header__nav__menu mobile-menu">
                             <ul>
-                                <li class="active"><a href="./index.html">Home</a></li>
-                                <li style="color:black"><a href="./about.html">Calendar</a></li>
+                                <li class="active"><a href="https://ahs-speech-debate.github.io/-home/">Home</a></li>
+                                <li style="color:black"><a href="https://ahs-speech-debate.github.io/-calendar/">Calendar</a></li>
                                 <li><a href="./portfolio.html">Resources</a></li>
                                 <li><a href="./services.html">About</a></li>
+                                <li><a href="./services.html">Our Team</a></li>
                                     </ul>
                         </nav>
                     </div>
@@ -76,7 +77,7 @@
                             <div class="hero__text">
                                 <span>For our interactive calendar</span>
                                 <h2>American High School Speech and Debate</h2>
-                                <a href="#" class="primary-btn">Calendar</a>
+                                <a href="https://ahs-speech-debate.github.io/-calendar/" class="primary-btn">Calendar</a>
                             </div>
                         </div>
                     </div>
