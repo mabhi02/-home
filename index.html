@@ -1,4 +1,3 @@
-
 <html lang="zxx">
 
 <head>
@@ -10,8 +9,8 @@
     <title>Home | American High School</title>
 
     <!-- Google Font -->
-    <link href="https://fonts.googleapis.com/css2?family=PT+Sans+Caption&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Play:wght@400;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@300;400;500;600;700&display=swap" rel="stylesheet">
 
     <!-- Css Styles -->
     <link rel="stylesheet" href="css/bootstrap.min.css" type="text/css">
@@ -41,11 +40,10 @@
                     <div class="header__nav__option">
                         <nav class="header__nav__menu mobile-menu">
                             <ul>
-                                <li class="active"><a href="https://ahs-speech-debate.github.io/-home/">Home</a></li>
-                                <li style="color:black"><a href="https://ahs-speech-debate.github.io/-calendar/">Calendar</a></li>
+                                <li class="active"><a href="./index.html">Home</a></li>
+                                <li style="color:black"><a href="./about.html">Calendar</a></li>
                                 <li><a href="./portfolio.html">Resources</a></li>
                                 <li><a href="./services.html">About</a></li>
-                                <li><a href="./services.html">Our Team</a></li>
                                     </ul>
                         </nav>
                     </div>
@@ -78,7 +76,7 @@
                             <div class="hero__text">
                                 <span>For our interactive calendar</span>
                                 <h2>American High School Speech and Debate</h2>
-                                <a href="https://ahs-speech-debate.github.io/-calendar/" class="primary-btn">Calendar</a>
+                                <a href="#" class="primary-btn">Calendar</a>
                             </div>
                         </div>
                     </div>
@@ -108,7 +106,7 @@
                 <div class="col-lg-4">
                     <div class="services__title">
                         <div class="section-title">
-                            <h2>What We do?</h2>
+                            <h2>What We Do</h2>
                         </div>
                         <p>Our club is made up of a team of dedicated students who work together to give our fellow speech and debators the help that they deserve!</p>
                         <a href="#" class="primary-btn">View our events</a>
