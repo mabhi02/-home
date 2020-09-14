@@ -6,7 +6,7 @@
     <meta name="keywords" content="Videograph, unica, creative, html">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Home | American High School</title>
+    <title>Home | AHS S&D</title>
 
     <!-- Google Font -->
     <link href="https://fonts.googleapis.com/css2?family=Play:wght@400;700&display=swap" rel="stylesheet">
@@ -222,7 +222,7 @@
             </div>
             <div class="row">
                 <div class="col-lg-3 col-md-6 col-sm-6 p-0">
-                    <div class="team__item set-bg" data-setbg="img/me.jpg">
+                    <div class="team__item set-bg" data-setbg="img/pearl.jpg">
                         <div class="team__item__text">
                             <h4>Pearl Vishen</h4>
                             <p>Secretary</p>
@@ -279,7 +279,7 @@
                 </div>
                 <div class="col-lg-12 p-0">
                     <div class="team__btn">
-                        <a href="#" class="primary-btn">Meet Our Team</a>
+                        <a href="https://ahs-speech-debate.github.io/-about/" class="primary-btn">Learn more about us</a>
                     </div>
                 </div>
             </div>
