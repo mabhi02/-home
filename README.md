@@ -42,9 +42,8 @@
                             <ul>
                                 <li><a href="https://ahs-speech-debate.github.io/-home/">Home</a></li>
                                 <li><a href="https://ahs-speech-debate.github.io/-calendar/">Calendar</a></li>
-                                <li><a href="./portfolio.html">Resources</a></li>
+                                <li><a href="https://ahs-speech-debate.github.io/-resources/">Resources</a></li>
                                 <li><a href="https://ahs-speech-debate.github.io/-about/">About</a></li>
-                                <li><a href="./services.html">Our Team</a></li>
                                     </ul>
                         </nav>
                     </div>
@@ -90,7 +89,7 @@
                             <div class="hero__text">
                                 <span>For our professional resources</span>
                                 <h2>American High School Speech and Debate</h2>
-                                <a href="#" class="primary-btn">Resources</a>
+                                <a href="https://ahs-speech-debate.github.io/-resources/" class="primary-btn">Resources</a>
                             </div>
                         </div>
                     </div>
@@ -110,7 +109,7 @@
                             <h2>What We Do</h2>
                         </div>
                         <p>Our club is made up of a team of dedicated students who work together to give our fellow speech and debators the help that they deserve!</p>
-                        <a href="#" class="primary-btn">View our events</a>
+                        <a href="https://ahs-speech-debate.github.io/-about/" class="primary-btn">View our events</a>
                     </div>
                 </div>
                 <div class="col-lg-8">
