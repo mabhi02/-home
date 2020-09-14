@@ -38,7 +38,7 @@
                 </div>
                 <div class="col-lg-10">
                     <div class="header__nav__option">
-                        <nav class="header__nav__menu mobile-menu">
+                        <nav class="header__nav__menu mobile-menu"> 
                             <ul>
                                 <li><a href="https://ahs-speech-debate.github.io/-home/">Home</a></li>
                                 <li><a href="https://ahs-speech-debate.github.io/-calendar/">Calendar</a></li>
