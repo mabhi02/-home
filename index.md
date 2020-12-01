@@ -236,7 +236,7 @@
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6 col-sm-6 p-0">
-                    <div class="team__item team__item--second set-bg" data-setbg="img/team121130907_1382014965492965_438979493734115404_n (1).jpg">
+                    <div class="team__item team__item--second set-bg" data-setbg="img/team/121130907_1382014965492965_438979493734115404_n (1).jpg">
                         <div class="team__item__text">
                             <h4>Saachi Baldwa</h4>
                             <p>Vice-President</p>
